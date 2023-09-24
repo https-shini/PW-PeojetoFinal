@@ -9,7 +9,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
-https://https-shini.github.io/PW-PeojetoFinal/
+https://https-shini.github.io/PW-ProjetoFinal/
 
 ## ☆ Tecnologias
 

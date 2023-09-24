@@ -1,4 +1,4 @@
-# <h1 align="center">Projeto Final - UNICSUL</h1>
+# <h1 align="center">PW - Projeto Final</h1>
 
 <p align="center">
   <a href="#-hospedagem">Hospedagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
-https://https-shini.github.io/Aula10-ProjetoFinal/
+https://https-shini.github.io/PW-PeojetoFinal/
 
 ## ☆ Tecnologias
 
